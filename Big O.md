@@ -1,3 +1,5 @@
+# Big O
+
 
 O propósito da notação Big O é descrever a eficiência de um algoritmo em termos de tempo de execução ou uso de espaço (memória) à medida que o tamanho da entrada (n) cresce. É uma maneira de expressar a complexidade computacional de um algoritmo de forma concisa e abstrata, ajudando os desenvolvedores a entender e comparar a eficiência de diferentes algoritmos sem se preocupar com detalhes de implementação específicos ou fatores constantes que podem variar dependendo do hardware ou do ambiente de execução.
 
@@ -56,6 +58,6 @@ o exemplo usado pelo professor foi um método de sequencia de Fibonacci
 #### quando o tempo do algoritmo cresce de forma fatorial de acordo com os dados de entrada
 
 ## Relação de prioridade de complexidade Big O
+![Captura de Tela (9)](https://github.com/user-attachments/assets/29d4ed74-c009-4fb7-a402-fb9227a71cc2)
 
-![[Captura de Tela (9).png]]
 
